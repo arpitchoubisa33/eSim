@@ -1,7 +1,7 @@
 # eSim 2.5 Installation Issues on Ubuntu 25.04
 
 ## Summary
-- * **Testing Period:** August 16, 2026 – August 23, 2026
+- **Testing Period:** August 16, 2026 – August 23, 2026
 - **System:** Ubuntu 25.04 (via WSL 2)
 - **eSim Version:** 2.5 (from commit bbb222c5)
 - **Total Bugs Found:** 3
