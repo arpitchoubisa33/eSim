@@ -188,7 +188,7 @@ The script was written for Python 2 era. Key compatibility issues:
    - `python-matplotlib` → `python3-matplotlib` ✅ Fixed
 
 2. **Additional Python 2 Packages (Not Yet Addressed):**
-   - `python2` (referenced in esim-start.sh line)
+   - Legacy python2 references in source files (partially resolved in launcher)
    - `python-qt4` imports in Application.py
    - `python2` shebang in Python files
 
